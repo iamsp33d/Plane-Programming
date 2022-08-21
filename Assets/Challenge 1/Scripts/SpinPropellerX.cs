@@ -15,6 +15,6 @@ public class SpinPropellerX : MonoBehaviour
     void Update()
     {
         // transform.Rotate(Vector3.forward + position);
-        transform.Rotate(Vector3.forward, 40);
+        transform.Rotate(Vector3.forward, 45);
     }
 }
